@@ -4,39 +4,45 @@
 
 > ###                [LOD_1]
 
-- [x] 1.  ~~Rectangle~~
-- [x] 2.  ~~Triangle~~
-- [x] 3.  ~~Circle~~ 
-- [x] 4.  ~~Cylinder~~   
-- [x] 5.  ~~Triangle~~    
-- [x] 6.  ~~Resistance~~  
-- [ ] 7.  ~~Current~~
-- [ ] 8.  Stack
-- [ ] 9.  ~~Cylinder~~
-- [ ] 10.  ~~Circle~~
+<ul type="square">
+ <li><strike>Rectangle</strike></li>
+ <li><strike>Triangle</strike></li>
+ <li><strike>Circle</strike></li> 
+ <li><strike>Cylinder</strike></li>   
+ <li><strike>Triangle</strike></li>    
+ <li><strike>Resistance</strike></li>  
+ <li><strike>Current</strike></li>
+ <li>Stack</li>
+ <li><strike>Cylinder</strike></li>
+ <li><strike>Circle</strike></li>
+</ul>
 
 > ###                [LOD_2]
 
-- [ ] 1. ... 
-- [ ] 2. ... 
-- [ ] 3. ... 
-- [ ] 4. ... 
-- [ ] 5. ... 
-- [ ] 6. ... 
-- [ ] 7. ... 
-- [ ] 8. ... 
-- [ ] 9. ... 
-- [ ] 10. ... 
+<ul type="square">
+ <li>...</li>
+ <li>...</li>
+ <li>...</li>
+ <li>...</li>
+ <li>...</li>   
+ <li>...</li>  
+ <li>...</li>
+ <li>...</li>
+ <li>...</li>
+ <li>...</li>
+</ul>
 
 > ###                [LOD_3]
 
-- [ ] 1. ... 
-- [ ] 2. ... 
-- [ ] 3. ... 
-- [ ] 4. ... 
-- [ ] 5. ... 
-- [ ] 6. ... 
-- [ ] 7. ... 
-- [ ] 8. ... 
-- [ ] 9. ... 
-- [ ] 10. ... 
+<ul type="square">
+ <li>...</li>
+ <li>...</li>
+ <li>...</li>
+ <li>...</li>
+ <li>...</li>   
+ <li>...</li>  
+ <li>...</li>
+ <li>...</li>
+ <li>...</li>
+ <li>...</li>
+</ul>
