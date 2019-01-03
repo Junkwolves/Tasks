@@ -20,7 +20,7 @@
 > ###                [LOD_2]
 
 <ol type="1">
- <li>Date</li>
+ <li><strike>Date</strike></li>
  <li>Date</li>
  <li>Stack</li>
  <li>Rectangle</li>
