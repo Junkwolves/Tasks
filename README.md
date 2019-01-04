@@ -21,7 +21,7 @@
 
 <ol type="1">
  <li><strike>Date</strike></li>
- <li>Date</li>
+ <li><strike>Date</strike></li>
  <li>Stack</li>
  <li>Rectangle</li>
  <li>Strtype</li>   
