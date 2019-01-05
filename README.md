@@ -40,7 +40,7 @@
  <li>Money</li>
  <li>Array</li>
  <li>DataTime</li>   
- <li>Point</li>  
+ <li><strike>Point</strike></li>  
  <li>Array</li>
  <li>Triangle</li>
  <li>String</li>
