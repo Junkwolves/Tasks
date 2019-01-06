@@ -44,5 +44,5 @@
  <li>Array</li>
  <li>Triangle</li>
  <li>String</li>
- <li>Circle</li>
+ <li><strike>Circle</strike></li>
 </ol>
