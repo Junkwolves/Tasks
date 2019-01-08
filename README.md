@@ -36,7 +36,7 @@
 
 <ol type="1">
  <li>DoubleArray</li>
- <li>Rectangle</li>
+ <li><strike>Rectangle</strike></li>
  <li><strike>Money</strike></li>
  <li>Array</li>
  <li>DataTime</li>   
