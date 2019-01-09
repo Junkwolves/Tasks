@@ -38,7 +38,7 @@
  <li>DoubleArray</li>
  <li><strike>Rectangle</strike></li>
  <li><strike>Money</strike></li>
- <li>Array</li>
+ <li><strike>Array</strike></li>
  <li>DataTime</li>   
  <li><strike>Point</strike></li>  
  <li>Array</li>
