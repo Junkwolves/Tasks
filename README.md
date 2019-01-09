@@ -42,7 +42,7 @@
  <li>DataTime</li>   
  <li><strike>Point</strike></li>  
  <li>Array</li>
- <li>Triangle</li>
+ <li><strike>Triangle</strike></li>
  <li>String</li>
  <li><strike>Circle</strike></li>
 </ol>
