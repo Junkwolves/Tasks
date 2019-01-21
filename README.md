@@ -35,7 +35,7 @@
 > ###                [LOD_3]
 
 <ol type="1">
- <li>DoubleArray</li>
+ <li><strike>DoubleArray</strike></li>
  <li><strike>Rectangle</strike></li>
  <li><strike>Money</strike></li>
  <li><strike>Array</strike></li>
