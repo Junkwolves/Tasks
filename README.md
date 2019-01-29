@@ -47,6 +47,13 @@
  <li><strike>Circle</strike></li>
 </ol>
 
+> ###                [Weight Control]
+
+<ol type="1">
+ <li><strike>Weight_Сontrol.cpp</strike></li>
+ <li><strike>CRT_.props</strike></li>
+</ol>
+
 - ##      [Calculator_CPP_Python]
 
 <ol type="1">
