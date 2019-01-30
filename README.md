@@ -54,14 +54,14 @@
  <li><strike>CRT_.props</strike></li>
 </ul>
 
-- ###      [Calculator_CPP_Python]
+> ###      [Calculator CPP/Python]
 
 <ul style="list-style-type:circle">
  <li><strike>Calculator CPP</strike></li>
  <li><strike>Calculator Python</strike></li>
 </ul>
 
-- ###      [Tourist guide]
+> ###      [Tourist guide]
 
 <ul style="list-style-type:circle">
  <li><strike>Tourist_guide.cpp</strike></li>
