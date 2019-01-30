@@ -1,0 +1,6 @@
+ "Mother_Motherland" Kiev,Ukraine 95
+ "Tunnel_of_Love" Kiev,Ukraine 68
+ "Caves_Monastery" Kiev,Ukraine 42
+ "Old_Town" Kiev,Ukraine 99
+ "Andreevsky_Spusk" Kiev,Ukraine 35
+ "Babiy_Yar" Kiev,Ukraine 78

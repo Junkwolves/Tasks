@@ -49,14 +49,20 @@
 
 > ###                [Weight Control]
 
-<ol type="1">
+<ul style="list-style-type:circle">
  <li><strike>Weight_Сontrol.cpp</strike></li>
  <li><strike>CRT_.props</strike></li>
-</ol>
+</ul>
 
-- ##      [Calculator_CPP_Python]
+- ###      [Calculator_CPP_Python]
 
-<ol type="1">
+<ul style="list-style-type:circle">
  <li><strike>Calculator CPP</strike></li>
  <li><strike>Calculator Python</strike></li>
-</ol>
+</ul>
+
+- ###      [Tourist guide]
+
+<ul style="list-style-type:circle">
+ <li><strike>Tourist_guide.cpp</strike></li>
+</ul>

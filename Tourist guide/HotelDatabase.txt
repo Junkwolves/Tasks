@@ -1,0 +1,5 @@
+ Plaza 1500 75  
+ Claridge's 220 32 
+ Raffles 930 82
+ Beverly_Hills_Hotel 145 21
+ Peninsula_Hong_Kong 856 66

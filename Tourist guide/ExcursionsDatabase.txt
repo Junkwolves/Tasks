@@ -1,0 +1,6 @@
+"Salt_caves" Kiev_salt_caves Mon. 11:00.am-6:00.pm 1150  
+"Total_Kiev_Tour" Museums_of_Kiev Tue. 8:00.am-3:00.pm 519
+"Sightseeing_Tour" Pechersk_Lavra Wed. 7:00.am-8:00.pm 765
+"Chernihiv_Day_Trip" Day_trip_to_Chernihiv Thu. 2:00.am-4:00.pm 999
+"War_Museum_Tour"  National_Museum Fri. 10:00.am-9:00.pm 234
+"Aviation_Museum" Aviation_Museum Sat. 4:00.am-7:00.pm 897
