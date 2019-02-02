@@ -1,6 +1,6 @@
 # Tasks
 
-- ##      [OOP]
+> ##      [OOP]
 
 > ###                [LOD_1]
 
@@ -46,6 +46,12 @@
  <li>String</li>
  <li><strike>Circle</strike></li>
 </ol>
+
+> ##      [Visual Basic]
+
+<ul style="list-style-type:circle">
+ <li><strike>VB_Calculator</strike></li>
+</ul>
 
 > ###                [Weight Control]
 
