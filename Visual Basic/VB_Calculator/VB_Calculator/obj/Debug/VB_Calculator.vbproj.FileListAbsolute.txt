@@ -1,0 +1,3 @@
+C:\Users\junkw\Desktop\VB\VB_Calculator\VB_Calculator\obj\Debug\VB_Calculator.vbprojAssemblyReference.cache
+C:\Users\junkw\Desktop\VB\VB_Calculator\VB_Calculator\obj\Debug\VB_Calculator.Form1.resources
+C:\Users\junkw\Desktop\VB\VB_Calculator\VB_Calculator\obj\Debug\VB_Calculator.vbproj.GenerateResource.cache
